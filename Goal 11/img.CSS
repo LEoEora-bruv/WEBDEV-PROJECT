@@ -1,0 +1,32 @@
+.cat{
+            background-color: aquamarine;
+            width: 350px;
+            padding-top: 5px;
+            display: inline-block;
+            margin-bottom: 28px;
+        }
+.cat img{
+            float: left;
+            width: 70px;
+        
+        }
+        
+.dog{
+            background-color: brown;
+            width: 350px;
+            padding-top: 5px;
+            display: inline-block;
+            position: absolute;
+            right: 10px;
+            padding-bottom: 10px;
+        }
+.dog img{
+            float: left;
+            width: 100px;
+        
+        }
+footer{
+    clear: left;
+    background-color: blue;
+    text-align: center;
+}
